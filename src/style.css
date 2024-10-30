@@ -1,0 +1,7 @@
+.box {
+    border: 2px solid red ;
+    /* background-color: yellowgreen; */
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
